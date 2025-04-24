@@ -25,5 +25,5 @@ _User Interface_: The system uses Tkinter for the user interface. There are four
 +Keras
 +pygame
 
-***Just run the UI.****
+***Just run the UI***
 
